@@ -1,0 +1,6 @@
+gym
+notebook
+tensorflow==2.8
+matplotlib
+seaborn
+gym[classic_control]
